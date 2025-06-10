@@ -1,4 +1,4 @@
 # Data Science CV
 # Education 
-# Work expereince 
+# Work History
 # Projects
